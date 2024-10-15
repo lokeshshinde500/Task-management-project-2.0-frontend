@@ -74,7 +74,7 @@ const Add = () => {
                   Select status
                 </option>
                 <option value="pending">Pending</option>
-                <option value="in Progress">In Progress</option>
+                <option value="in progress">In Progress</option>
                 <option value="completed">Completed</option>
               </select>
             </div>
